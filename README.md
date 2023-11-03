@@ -1,4 +1,4 @@
-# Hi there I'm Peter
+# Hi there I'm George
 
 ### About me:
 <!--- 🔭 I’m currently working on ...-->
